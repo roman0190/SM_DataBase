@@ -2,6 +2,15 @@
 <StaticDataList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Version>2</Version>
   <StaticDataLinks>
+    <StaticDataLink>dbo.[Fruits &amp; vegetable]</StaticDataLink>
+    <StaticDataLink>dbo.[Milk &amp; beverages]</StaticDataLink>
+    <StaticDataLink>dbo.Dal</StaticDataLink>
+    <StaticDataLink>dbo.Eggs</StaticDataLink>
+    <StaticDataLink>dbo.empInfo_table</StaticDataLink>
     <StaticDataLink>dbo.login_table</StaticDataLink>
+    <StaticDataLink>dbo.Meat</StaticDataLink>
+    <StaticDataLink>dbo.oil</StaticDataLink>
+    <StaticDataLink>dbo.Rice</StaticDataLink>
+    <StaticDataLink>dbo.Spices</StaticDataLink>
   </StaticDataLinks>
 </StaticDataList>
