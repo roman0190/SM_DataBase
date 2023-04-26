@@ -3,7 +3,6 @@
   <Version>2</Version>
   <StaticDataLinks>
     <StaticDataLink>dbo.empInfo_table</StaticDataLink>
-    <StaticDataLink>dbo.itemInfo_table</StaticDataLink>
     <StaticDataLink>dbo.login_table</StaticDataLink>
   </StaticDataLinks>
 </StaticDataList>
